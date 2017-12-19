@@ -1,0 +1,32 @@
+#BG{  
+  width:1400px;
+  height:800px;
+   background-image:url(https://goo.gl/z9GucB);
+   background-repeat:no-repeat;
+   border:5px #ccc solid;
+   background-size:14000px 800px;
+}
+#title {
+	 "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 40px;
+	width: 500px;
+	margin: 0 auto;
+	color:aliceblue;
+	font-family:Impact;	
+  border-radius: 130px;
+
+
+}
+.nav-item{
+  font-family:Impact;		
+  font-size: 30px;
+ background-color:#F5F5DC;
+  border-radius: 200px;
+}
+#last{
+  width:1400px;
+  font-size: 8px;
+  font-family: DFKai-sb;
+  text-align: right;
+}
+  
